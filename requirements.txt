@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain_google_genai
+langchain_core
+python-dotenv
+fastapi
+uvicorn
+python-docx
+pydantic
+requests
+httpx
+langchain-groq
